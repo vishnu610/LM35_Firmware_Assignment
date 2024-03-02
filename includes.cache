@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\PC\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\PC\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\standard"
+  },
+  {
+    "Sourcefile": "C:\\Users\\PC\\AppData\\Local\\Temp\\arduino\\sketches\\EFAD233E80F8E7F01FA57171409EDD7D\\sketch\\LM35_Firmware_Assignment.ino.cpp",
+    "Include": "TimerOne.h",
+    "Includepath": "c:\\Users\\PC\\Documents\\sketch_sep27a\\libraries\\TimerOne"
+  },
+  {
+    "Sourcefile": "C:\\Users\\PC\\AppData\\Local\\Temp\\arduino\\sketches\\EFAD233E80F8E7F01FA57171409EDD7D\\sketch\\LM35_Firmware_Assignment.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Users\\PC\\Documents\\sketch_sep27a\\libraries\\TimerOne\\TimerOne.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
